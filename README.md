@@ -2,10 +2,10 @@
 This repository contains a Python script for building and evaluating a car price prediction model using machine learning techniques. The model is trained to predict car prices based on various features.
 
 ## Prerequisites
-Python (3.6 or higher)
-Pandas
-Matplotlib
-Seaborn
+Python (3.6 or higher),
+Pandas,
+Matplotlib,
+Seaborn,
 Scikit-learn
 
 ## Description
